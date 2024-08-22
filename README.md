@@ -1,16 +1,14 @@
 # custom_theme_app
 
-A new Flutter project.
+Proyecto Custom Theme
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Proyecto de ejemplo para realizar un custom theme tanto para estilo oscuro como estilo claro y mantener el estado
+del cambio de color con hydrated_bloc
 
-A few resources to get you started if this is your first Flutter project:
+## Plugins
+- flutter_bloc
+- freezed
+- hydrated_bloc
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
